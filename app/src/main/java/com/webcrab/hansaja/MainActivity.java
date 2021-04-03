@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
                 num1 = Integer.parseInt(N1.getText().toString());
                 num2 = Integer.parseInt(N2.getText().toString());
 
-                result = num1/num2;
+                result = num2/num1;
 
                 rs.setText(String.valueOf(result));
 //pupkapukpaaupka
